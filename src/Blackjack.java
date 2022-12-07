@@ -29,6 +29,6 @@ public class Blackjack
         
         System.setProperty("apple.laf.useScreenMenuBar", "true");
         
-        AppWindow window = new AppWindow();      
+        AppWindow window = new AppWindow();
     }
 }
